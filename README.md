@@ -1,4 +1,8 @@
-### Hi there 👋
+# Jhonata Simeão Benfica Garcia 
+
+### I'm a Java Full Stack developer, and I work at as a Developer Analyst, working in the Front-end and Back-end.
+
+### I am studying React and React-Native, where I want to migrate to this era of Web and Mobile development soon.
 
 <!--
 **jhonatagarcia/jhonatagarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
