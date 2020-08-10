@@ -4,7 +4,7 @@
 
 ##### I am studying React and React-Native, where I want to migrate to this era of Web and Mobile development soon.
 
-##### Skill's - Java 8, 9 - Spring Framework | JavaScrip | TypeScrip | NodeJs
+##### Skill's - Java 8, 9 - Spring Framework | JavaScript | TypeScript | NodeJs
 
 
 <!--
