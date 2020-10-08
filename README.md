@@ -1,5 +1,6 @@
 ### Hello, i'm Jhonata Simeão Benfica Garcia 😄💬 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 #### I'm a Full Stack developer Java, currently working for a French multinational, where I work as a Full Stack Analyst Developer, working on the Front-end and Back-end.
 
