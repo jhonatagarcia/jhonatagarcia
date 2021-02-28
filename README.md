@@ -2,9 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 #### I'm a Full Stack developer Java, currently working for a French multinational, where I work as a Full Stack Analyst Developer, working on the Front-end and Back-end.
 
