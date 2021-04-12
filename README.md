@@ -1,4 +1,4 @@
-### Hello, i'm Jhonata Simeão Benfica Garcia 😄💬 
+### Hello, i'm Jhonata Simeão Benfica Garcia 😄 💬 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) <br>
 
