@@ -4,10 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-💻 Web front-end development with AngularJs, ReactJs
-📱 Mobile applications for Android and iOS with React Native
-📡 API with NodeJs, Java
-💾 Database: Postgres, MongoDB, SQL Server, MySQL
+:computer: Web front-end development with **ReactJs** <br/>
+:iphone: Mobile applications for Android and iOS with **React Native** <br/> 
+:satellite: API with **NodeJs** <br/>
+:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
 
 <p>
 <img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="35px"/>
