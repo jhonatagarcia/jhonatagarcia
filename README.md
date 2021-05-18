@@ -4,11 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-:computer: Web front-end development with **ReactJs** <br/>
+:computer: Web front-end development with **AngularJs** and **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
-:satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL** <br/>
-
+:satellite: API with **NodeJs** and **Java (spring and Jarsey)** <br/>
+:floppy_disk: Database: **Postgres**, **MongoDB**, **SQL Server**, **MySQL** <br/>
+<br>
 <p>
 <img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="35px"/>
 &nbsp;
@@ -35,8 +35,18 @@
 <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
 &nbsp;  
 <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
-t="35px" />   
+&nbsp;  
+<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
+&nbsp;
+<img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" />   
+&nbsp;
+<img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
+&nbsp;
+<img src="https://exportcode.com/wp-content/uploads/2018/08/c.png" height="35px" />   
+&nbsp;
+<img src="https://code-maven.com/img/python.png" height="35px" />   
 </p>
+
 
 #### I'm a developer websites, mobile and APIs currently working for a French multinational, where I work as a Full Stack Analyst Developer, working on the Front-end and Back-end.
 
