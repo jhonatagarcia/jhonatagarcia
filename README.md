@@ -33,11 +33,11 @@
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 </p>
 
-#### I'm a developer websites, mobile and APIs currently working for a French multinational, where I work as a Full Stack Analyst Developer, working on the Front-end and Back-end.
+ I'm a developer websites, mobile and APIs currently working for a French multinational, where I work as a Full Stack Analyst Developer, working on the Front-end and Back-end.
                                  
-#### Graduated in computer science
+Graduated in computer science
 
-#### I always try to update myself with new technologies, and put them in my personal and professional projects.
+I always try to update myself with new technologies, and put them in my personal and professional projects.
 
 <!--
 **jhonatagarcia/jhonatagarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
