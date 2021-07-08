@@ -6,7 +6,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) 
   &nbsp;
-<img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/120970622_3297547713675070_968219441991345929_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=z8ua_xxN1zMAX8aYZhZ&_nc_oc=AQnXkcYiW1vbQzSiKFfooTQrxgAe5rwAPcBpuyKTzvFRk5xKR9KBtiBsl0GirGQSWGxgwnw-WjYl4fmyWCwY1YFy&_nc_ht=scontent.fcgh2-1.fna&oh=4d2e75760556f79aa8e49b47a2a258aa&oe=60ED08FF" width="200" height="200px">
+<img src="https://scontent.fcgh2-1.fna.fbcdn.net/v/t1.6435-9/120970622_3297547713675070_968219441991345929_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=z8ua_xxN1zMAX8aYZhZ&_nc_oc=AQnXkcYiW1vbQzSiKFfooTQrxgAe5rwAPcBpuyKTzvFRk5xKR9KBtiBsl0GirGQSWGxgwnw-WjYl4fmyWCwY1YFy&_nc_ht=scontent.fcgh2-1.fna&oh=4d2e75760556f79aa8e49b47a2a258aa&oe=60ED08FF" width="200" height="300px">
 
 
 
