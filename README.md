@@ -2,7 +2,6 @@
 ## Jhonata Simeão Benfica Garcia 😄 💬 
 
 <p>
- 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) 
   &nbsp;
