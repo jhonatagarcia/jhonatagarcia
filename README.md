@@ -3,8 +3,9 @@
 
 <p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) 
+  &nbsp;
 <img alt="perfil-Jhonata" src=".github/perfil-Jhonata.jpeg" width="250" height="250px">
-<img alt="move.it" title="move.it" src=".github/move-it.png" />
 
 
 
