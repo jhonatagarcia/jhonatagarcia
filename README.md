@@ -23,9 +23,7 @@
 :floppy_disk: Database: **Postgres**, **MongoDB**, **SQL Server**, **MySQL** <br/>
 <br>
 <p>
-<img src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" height="35px"/>
-&nbsp;
-<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
+<img src="https://pt.wikipedia.org/wiki/React_(JavaScript)#/media/Ficheiro:React-icon.svg" height="35px"/>  
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
