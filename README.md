@@ -23,7 +23,7 @@
 :floppy_disk: Database: **Postgres**, **MongoDB**, **SQL Server**, **MySQL** <br/>
 <br>
 <p>
-<img src="https://www.redspark.io/wp-content/uploads/2020/05/1200px-React-icon.svg_-1080x675.png" height="40px"/>  
+<img src="https://www.pinclipart.com/picdir/big/537-5374089_react-js-logo-clipart.png" height="40px"/>  
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
