@@ -46,7 +46,10 @@
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
  &nbsp;  
 <img src="https://camo.githubusercontent.com/67d3b6a53e54ed6b9e5487f043892b71853438713be5bddbaa04dee4968d0bb1/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3132382f6a6176615f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363435392e706e67" height="35px" />   
+ &nbsp;  
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="35px" /> 
 </p>
+
 
 
 
