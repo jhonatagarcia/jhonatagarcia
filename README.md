@@ -17,7 +17,7 @@
 
 </p>
 
-:computer: Web front-end development with **AngularJs** and **ReactJs** <br/>
+:computer: Web front-end development with **AngularJS, Angular +8 ** and **ReactJs** <br/>
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :satellite: API with **NodeJs** and **Java (spring and Jersey)** <br/>
 :floppy_disk: Database: **Postgres**, **MongoDB**, **SQL Server**, **MySQL** <br/>
