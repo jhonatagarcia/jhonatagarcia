@@ -3,8 +3,7 @@
 
 <p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats) 
-  &nbsp;
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonatagarcia&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   &nbsp;
 <img alt="perfil-Jhonata" src=".github/perfil-Jhonata.jpeg" width="250" height="250px">
 
 
@@ -13,8 +12,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatagarcia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 :computer: Web front-end development with **AngularJS**, **Angular +8** and **ReactJs** <br/>
